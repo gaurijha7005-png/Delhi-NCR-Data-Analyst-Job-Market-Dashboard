@@ -17,12 +17,6 @@ The dashboard helps identify:
 
 ---
 
-## Dashboard Preview
-
-![Dashboard](OVERVIEW PAGE 1.png)
-
----
-
 ## Project Objectives
 
 - Analyze hiring demand in Delhi/NCR
